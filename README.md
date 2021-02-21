@@ -18,7 +18,8 @@
     
       Ex .. Set<String> set = new HashSet<>();
       
-    . TreeSet: Mais lento (Operações O(log(n)) em árvore rubro-negro) e ordenado pelo compareTo do objeto ou Comparator.✅ 
+    . TreeSet: Mais lento (Operações O(log(n)) em árvore rubro-negro)
+               e ordenado pelo compareTo do objeto ou Comparator.✅ 
     
       Ex .. Set<String> set = new TreeSet<>();
       
